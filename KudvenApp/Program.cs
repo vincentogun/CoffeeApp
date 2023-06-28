@@ -47,7 +47,7 @@ namespace Coffee_Shop
                 while (userChoice != 1 && userChoice != 2 && userChoice != 3) ;
 
 
-
+                //Cost Total for Customer Purchases
                 Console.WriteLine("Bill = ${0}.00", coffeeCost);
                 //Console.WriteLine("=====================================================");
                 Console.WriteLine("                                                                   ");
@@ -77,14 +77,13 @@ namespace Coffee_Shop
 
         static void version()
         {
+            //App Version
             //Console.BackgroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("[APP VERSION 2.5.8]...");
             Console.ResetColor();
             Console.WriteLine("====================================================");
             Console.WriteLine("                                          ");
-
         }
-
 
         
     }
