@@ -18,6 +18,8 @@ namespace Coffee_Shop
             int coffeeCost = 0;
             string userDecision = string.Empty;
 
+
+            //Coffee options for customer to pick
             int userChoice = -1;
             do
             {
@@ -52,7 +54,7 @@ namespace Coffee_Shop
 
                 do
                 {
-                    Console.WriteLine("Do you wish to purchase another item: Yes/No");
+                    Console.WriteLine("Do you wish to purchase another coffee item: Yes/No");
                     userDecision = Convert.ToString(Console.ReadLine().ToUpper());
 
                     if (userDecision != "YES" && userDecision != "NO")
