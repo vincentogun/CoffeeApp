@@ -8,7 +8,8 @@ C:\Users\Anuoluwa\source\repos\KudvenApp\KudvenApp\obj\Debug\KudvenApp.pdb
 C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\bin\Debug\KudvenApp.exe.config
 C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\bin\Debug\KudvenApp.exe
 C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\bin\Debug\KudvenApp.pdb
-C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\obj\Debug\KudvenApp.csprojAssemblyReference.cache
 C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\obj\Debug\KudvenApp.csproj.CoreCompileInputs.cache
 C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\obj\Debug\KudvenApp.exe
 C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\obj\Debug\KudvenApp.pdb
+C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\obj\Debug\KudvenApp.csproj.AssemblyReference.cache
+C:\Users\Anuoluwa\source\repos\CoffeeApp\KudvenApp\obj\Debug\KudvenApp.csproj.SuggestedBindingRedirects.cache
