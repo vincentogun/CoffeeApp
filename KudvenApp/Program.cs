@@ -66,20 +66,25 @@ namespace Coffee_Shop
 
             }
 
-            while (userDecision.ToUpper() != "NO");
+            while (userDecision.ToUpper() != "NO")
+            {
+                Console.WriteLine($"Final Bill: {coffeeCost}\nGood Bye.");
+            }
+
+             
 
 
-
-            //Console.WriteLine(name);
+            
 
             Console.ReadKey();
+           
         }       
 
         static void version()
         {
             //App Version
             //Console.BackgroundColor = ConsoleColor.DarkGreen;
-            Console.WriteLine("[APP VERSION 2.5.8]...");
+            Console.WriteLine("[APP VERSION 2.6.1]...");
             Console.ResetColor();
             Console.WriteLine("====================================================");
             Console.WriteLine("                                          ");
